@@ -7,7 +7,7 @@
 - 🎓 Studies for Software Engineering at [Universidad del Valle](https://www.univalle.edu.co/)
 - 🎓 Studies for Web Developer at [CódigoFacilito](https://codigofacilito.com/)
 - 🏡'Lives in **Colombia**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- ⚡ **Fun Facts** : 🍕 🏉 🏏 🚞
 
 <br>
 
